@@ -22,8 +22,10 @@ public class LoginStep {
 	@Given("User navigates to login page {string}")
 	public void user_navigates_to_login_page(String url) throws InterruptedException {
 	 
-		
+		//Teste
 		//Mac Users
+		
+		
 //		WebDriverManager.safaridriver().setup();
 //		driver = new SafariDriver();
 //		
