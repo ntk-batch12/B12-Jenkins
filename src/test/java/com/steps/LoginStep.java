@@ -24,6 +24,8 @@ public class LoginStep {
 		System.out.println("Navigating to applciation");
 		
 		System.out.println("TEST");
+		System.out.println("TEST");
+		System.out.println("TEST");
 	}
 
 	@When("User enters username {string}")
