@@ -23,6 +23,7 @@ public class LoginStep {
 	public void user_navigates_to_login_page(String url) throws InterruptedException {
 	 
 		System.out.println("Navigating to application");
+		System.out.println("Test");
 	}
 
 	@When("User enters username {string}")
