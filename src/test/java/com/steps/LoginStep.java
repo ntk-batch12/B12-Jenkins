@@ -25,6 +25,9 @@ public class LoginStep {
 		//Teste
 		//Mac Users
 		
+		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
+//				
 		
 //		WebDriverManager.safaridriver().setup();
 //		driver = new SafariDriver();
